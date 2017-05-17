@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome!" Url="html/c0481a93-2a09-4d93-8418-410ef2bf77c4.htm" />
+  <HelpTOCNode Id="8dc2d744-a63e-4e6e-ad88-2d6c4da0df78" Title="Version History" Url="html/1404f89d-737c-4362-97f8-f28d6eca6835.htm">
+    <HelpTOCNode Title="Version 1.0" Url="html/5aa5c589-dd14-4c29-840e-d76fb6aeb754.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="711837d7-965e-4c6a-8c4d-87e82853f64c" Title="HandlebarsDotNet.Mvc" Url="html/N_HandlebarsDotNet_Mvc.htm">
+    <HelpTOCNode Id="1e9b5c71-54fa-402d-ac27-d4e392476ed7" Title="CompiledView Class" Url="html/T_HandlebarsDotNet_Mvc_CompiledView.htm">
+      <HelpTOCNode Title="CompiledView Constructor " Url="html/M_HandlebarsDotNet_Mvc_CompiledView__ctor.htm" />
+      <HelpTOCNode Id="8b7208c6-5079-4143-b106-e52245988faa" Title="CompiledView Properties" Url="html/Properties_T_HandlebarsDotNet_Mvc_CompiledView.htm">
+        <HelpTOCNode Title="FileHash Property " Url="html/P_HandlebarsDotNet_Mvc_CompiledView_FileHash.htm" />
+        <HelpTOCNode Title="Func Property " Url="html/P_HandlebarsDotNet_Mvc_CompiledView_Func.htm" />
+        <HelpTOCNode Title="Layout Property " Url="html/P_HandlebarsDotNet_Mvc_CompiledView_Layout.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="70bec029-94cc-483c-9e4b-c3cec76bc384" Title="DefaultPathsProvider Class" Url="html/T_HandlebarsDotNet_Mvc_DefaultPathsProvider.htm">
+      <HelpTOCNode Title="DefaultPathsProvider Constructor " Url="html/M_HandlebarsDotNet_Mvc_DefaultPathsProvider__ctor.htm" />
+      <HelpTOCNode Id="3c164f0a-99a1-4a55-818e-03d619884f34" Title="DefaultPathsProvider Methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_DefaultPathsProvider.htm">
+        <HelpTOCNode Title="GetLayoutFolders Method " Url="html/M_HandlebarsDotNet_Mvc_DefaultPathsProvider_GetLayoutFolders.htm" />
+        <HelpTOCNode Title="GetPartialsFolders Method " Url="html/M_HandlebarsDotNet_Mvc_DefaultPathsProvider_GetPartialsFolders.htm" />
+        <HelpTOCNode Title="GetViewFolders Method " Url="html/M_HandlebarsDotNet_Mvc_DefaultPathsProvider_GetViewFolders.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1b229b46-9f5b-429f-b172-7cd8a2266bc5" Title="DefaultPathsProvider Properties" Url="html/Properties_T_HandlebarsDotNet_Mvc_DefaultPathsProvider.htm">
+        <HelpTOCNode Title="AllowControllerlessViewFolder Property " Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_AllowControllerlessViewFolder.htm" />
+        <HelpTOCNode Title="AreasFolderName Property " Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_AreasFolderName.htm" />
+        <HelpTOCNode Title="LayoutsFolderName Property " Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_LayoutsFolderName.htm" />
+        <HelpTOCNode Title="PartialsFolderName Property " Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_PartialsFolderName.htm" />
+        <HelpTOCNode Title="SharedViewsFolderName Property " Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_SharedViewsFolderName.htm" />
+        <HelpTOCNode Title="ViewsFolderName Property " Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_ViewsFolderName.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="996d8d76-8a55-4353-b09d-580c26792b71" Title="HandlebarsView Class" Url="html/T_HandlebarsDotNet_Mvc_HandlebarsView.htm">
+      <HelpTOCNode Title="HandlebarsView Constructor " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsView__ctor.htm" />
+      <HelpTOCNode Id="7dbcb321-9214-4fe1-b0fb-0cc3cc91edf4" Title="HandlebarsView Methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_HandlebarsView.htm">
+        <HelpTOCNode Title="GetViewContext Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsView_GetViewContext.htm" />
+        <HelpTOCNode Title="Render Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsView_Render.htm" />
+        <HelpTOCNode Title="SetupContext Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsView_SetupContext.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c722f69b-9f56-470e-826a-1a4c27d058e4" Title="HandlebarsView Properties" Url="html/Properties_T_HandlebarsDotNet_Mvc_HandlebarsView.htm">
+        <HelpTOCNode Title="ViewData Property " Url="html/P_HandlebarsDotNet_Mvc_HandlebarsView_ViewData.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="82fc5a7d-2bab-4bba-bf0b-ec8461100a3e" Title="HandlebarsViewEngine Class" Url="html/T_HandlebarsDotNet_Mvc_HandlebarsViewEngine.htm">
+      <HelpTOCNode Id="a07a3660-959b-4251-bf03-288dde262737" Title="HandlebarsViewEngine Constructor " Url="html/Overload_HandlebarsDotNet_Mvc_HandlebarsViewEngine__ctor.htm">
+        <HelpTOCNode Title="HandlebarsViewEngine Constructor " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine__ctor.htm" />
+        <HelpTOCNode Title="HandlebarsViewEngine Constructor (IPathsProvider)" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ded61062-c84c-4221-bf33-37f8b7792280" Title="HandlebarsViewEngine Methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_HandlebarsViewEngine.htm">
+        <HelpTOCNode Title="ClearCache Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ClearCache.htm" />
+        <HelpTOCNode Title="CreateView Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_CreateView.htm" />
+        <HelpTOCNode Title="ExtractActionName Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ExtractActionName.htm" />
+        <HelpTOCNode Title="ExtractAreaName Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ExtractAreaName.htm" />
+        <HelpTOCNode Title="ExtractControllerName Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ExtractControllerName.htm" />
+        <HelpTOCNode Title="FileExists Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_FileExists.htm" />
+        <HelpTOCNode Title="FindPartialView Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_FindPartialView.htm" />
+        <HelpTOCNode Title="FindView Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_FindView.htm" />
+        <HelpTOCNode Title="GetCacheKey Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_GetCacheKey.htm" />
+        <HelpTOCNode Id="1c58f0d4-804d-4b7a-9826-b6f781d67e8e" Title="RegisterHelper Method " Url="html/Overload_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterHelper.htm">
+          <HelpTOCNode Title="RegisterHelper Method (String, HandlebarsBlockHelper)" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterHelper.htm" />
+          <HelpTOCNode Title="RegisterHelper Method (String, HandlebarsHelper)" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterHelper_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="RegisterMvcHelpers Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterMvcHelpers.htm" />
+        <HelpTOCNode Title="RegisterSectionsHelpers Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterSectionsHelpers.htm" />
+        <HelpTOCNode Title="RegisterTemplate Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterTemplate.htm" />
+        <HelpTOCNode Title="ReleaseView Method " Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ReleaseView.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bf35a3b9-641a-4f69-b9c3-598a4776e5c0" Title="HandlebarsViewEngine Properties" Url="html/Properties_T_HandlebarsDotNet_Mvc_HandlebarsViewEngine.htm">
+        <HelpTOCNode Title="CacheKeyPrefix Property " Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_CacheKeyPrefix.htm" />
+        <HelpTOCNode Title="HandlebarsConfiguration Property " Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_HandlebarsConfiguration.htm" />
+        <HelpTOCNode Title="Logger Property " Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_Logger.htm" />
+        <HelpTOCNode Title="PathsProvider Property " Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_PathsProvider.htm" />
+        <HelpTOCNode Title="ViewExtension Property " Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ViewExtension.htm" />
+        <HelpTOCNode Title="ViewsSlidingCacheTime Property " Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ViewsSlidingCacheTime.htm" />
+        <HelpTOCNode Title="VirtualPathProvider Property " Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_VirtualPathProvider.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9e5a5392-a10d-4703-8252-6646bbb3af2e" Title="HelperException Class" Url="html/T_HandlebarsDotNet_Mvc_HelperException.htm">
+      <HelpTOCNode Id="92e37f9d-d945-4c1e-ba88-685a427e843d" Title="HelperException Constructor " Url="html/Overload_HandlebarsDotNet_Mvc_HelperException__ctor.htm">
+        <HelpTOCNode Title="HelperException Constructor " Url="html/M_HandlebarsDotNet_Mvc_HelperException__ctor.htm" />
+        <HelpTOCNode Title="HelperException Constructor (String)" Url="html/M_HandlebarsDotNet_Mvc_HelperException__ctor_2.htm" />
+        <HelpTOCNode Title="HelperException Constructor (SerializationInfo, StreamingContext)" Url="html/M_HandlebarsDotNet_Mvc_HelperException__ctor_1.htm" />
+        <HelpTOCNode Title="HelperException Constructor (String, Exception)" Url="html/M_HandlebarsDotNet_Mvc_HelperException__ctor_3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3e929d71-29ad-4cc6-85fe-062af23fc36a" Title="Helpers Class" Url="html/T_HandlebarsDotNet_Mvc_Helpers.htm">
+      <HelpTOCNode Id="437132e5-f85e-4531-bebd-58e21125aa09" Title="Helpers Methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_Helpers.htm">
+        <HelpTOCNode Title="DefineSection Method " Url="html/M_HandlebarsDotNet_Mvc_Helpers_DefineSection.htm" />
+        <HelpTOCNode Title="HtmlAntiForgeryToken Method " Url="html/M_HandlebarsDotNet_Mvc_Helpers_HtmlAntiForgeryToken.htm" />
+        <HelpTOCNode Title="HtmlRenderAction Method " Url="html/M_HandlebarsDotNet_Mvc_Helpers_HtmlRenderAction.htm" />
+        <HelpTOCNode Title="IsSectionDefined Method " Url="html/M_HandlebarsDotNet_Mvc_Helpers_IsSectionDefined.htm" />
+        <HelpTOCNode Title="RenderSection Method " Url="html/M_HandlebarsDotNet_Mvc_Helpers_RenderSection.htm" />
+        <HelpTOCNode Title="ScriptsRender Method " Url="html/M_HandlebarsDotNet_Mvc_Helpers_ScriptsRender.htm" />
+        <HelpTOCNode Title="StylesRender Method " Url="html/M_HandlebarsDotNet_Mvc_Helpers_StylesRender.htm" />
+        <HelpTOCNode Title="UrlAction Method " Url="html/M_HandlebarsDotNet_Mvc_Helpers_UrlAction.htm" />
+        <HelpTOCNode Title="UrlContent Method " Url="html/M_HandlebarsDotNet_Mvc_Helpers_UrlContent.htm" />
+        <HelpTOCNode Title="UrlEncode Method " Url="html/M_HandlebarsDotNet_Mvc_Helpers_UrlEncode.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ca1567ad-08e9-4ee8-92aa-c249aa4da3ff" Title="ILogger Interface" Url="html/T_HandlebarsDotNet_Mvc_ILogger.htm">
+      <HelpTOCNode Id="2714e78a-872d-4daa-895d-98432d5e6826" Title="ILogger Methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_ILogger.htm">
+        <HelpTOCNode Title="Log Method " Url="html/M_HandlebarsDotNet_Mvc_ILogger_Log.htm" />
+        <HelpTOCNode Title="Trace Method " Url="html/M_HandlebarsDotNet_Mvc_ILogger_Trace.htm" />
+        <HelpTOCNode Title="Warn Method " Url="html/M_HandlebarsDotNet_Mvc_ILogger_Warn.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1fc4e064-3326-4f31-ac15-aae6254d1b41" Title="IPathsProvider Interface" Url="html/T_HandlebarsDotNet_Mvc_IPathsProvider.htm">
+      <HelpTOCNode Id="f8b9215f-bfc0-4b90-84cb-13f728a4006f" Title="IPathsProvider Methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_IPathsProvider.htm">
+        <HelpTOCNode Title="GetLayoutFolders Method " Url="html/M_HandlebarsDotNet_Mvc_IPathsProvider_GetLayoutFolders.htm" />
+        <HelpTOCNode Title="GetPartialsFolders Method " Url="html/M_HandlebarsDotNet_Mvc_IPathsProvider_GetPartialsFolders.htm" />
+        <HelpTOCNode Title="GetViewFolders Method " Url="html/M_HandlebarsDotNet_Mvc_IPathsProvider_GetViewFolders.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="LoggerCategory Enumeration" Url="html/T_HandlebarsDotNet_Mvc_LoggerCategory.htm" />
+    <HelpTOCNode Id="ffb41911-cd41-482b-8b1f-75a5b904ebdb" Title="NullLogger Class" Url="html/T_HandlebarsDotNet_Mvc_NullLogger.htm">
+      <HelpTOCNode Title="NullLogger Constructor " Url="html/M_HandlebarsDotNet_Mvc_NullLogger__ctor.htm" />
+      <HelpTOCNode Id="18f26484-aea9-4985-9e5b-5ce133c8333b" Title="NullLogger Methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_NullLogger.htm">
+        <HelpTOCNode Title="Log Method " Url="html/M_HandlebarsDotNet_Mvc_NullLogger_Log.htm" />
+        <HelpTOCNode Title="Trace Method " Url="html/M_HandlebarsDotNet_Mvc_NullLogger_Trace.htm" />
+        <HelpTOCNode Title="Warn Method " Url="html/M_HandlebarsDotNet_Mvc_NullLogger_Warn.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a9c8eaad-117a-42b4-82b6-275136a711fe" Title="NullLogger Properties" Url="html/Properties_T_HandlebarsDotNet_Mvc_NullLogger.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/P_HandlebarsDotNet_Mvc_NullLogger_Instance.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

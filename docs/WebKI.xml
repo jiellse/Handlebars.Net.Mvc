@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AllowControllerlessViewFolder property" Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_AllowControllerlessViewFolder.htm" />
+  <HelpKINode Title="Api enumeration member" Url="html/T_HandlebarsDotNet_Mvc_LoggerCategory.htm" />
+  <HelpKINode Title="AreasFolderName property" Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_AreasFolderName.htm" />
+  <HelpKINode Title="Cache enumeration member" Url="html/T_HandlebarsDotNet_Mvc_LoggerCategory.htm" />
+  <HelpKINode Title="CacheKeyPrefix property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_CacheKeyPrefix.htm" />
+  <HelpKINode Title="ClearCache method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ClearCache.htm" />
+  <HelpKINode Title="Compile enumeration member" Url="html/T_HandlebarsDotNet_Mvc_LoggerCategory.htm" />
+  <HelpKINode Title="CompiledView class">
+    <HelpKINode Title="CompiledView Class" Url="html/T_HandlebarsDotNet_Mvc_CompiledView.htm" />
+    <HelpKINode Title="about CompiledView class" Url="html/T_HandlebarsDotNet_Mvc_CompiledView.htm" />
+    <HelpKINode Title="constructor" Url="html/M_HandlebarsDotNet_Mvc_CompiledView__ctor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_HandlebarsDotNet_Mvc_CompiledView.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CompiledView.CompiledView constructor" Url="html/M_HandlebarsDotNet_Mvc_CompiledView__ctor.htm" />
+  <HelpKINode Title="CompiledView.FileHash property" Url="html/P_HandlebarsDotNet_Mvc_CompiledView_FileHash.htm" />
+  <HelpKINode Title="CompiledView.Func property" Url="html/P_HandlebarsDotNet_Mvc_CompiledView_Func.htm" />
+  <HelpKINode Title="CompiledView.Layout property" Url="html/P_HandlebarsDotNet_Mvc_CompiledView_Layout.htm" />
+  <HelpKINode Title="CreateView method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_CreateView.htm" />
+  <HelpKINode Title="DefaultPathsProvider class">
+    <HelpKINode Title="DefaultPathsProvider Class" Url="html/T_HandlebarsDotNet_Mvc_DefaultPathsProvider.htm" />
+    <HelpKINode Title="about DefaultPathsProvider class" Url="html/T_HandlebarsDotNet_Mvc_DefaultPathsProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/M_HandlebarsDotNet_Mvc_DefaultPathsProvider__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_DefaultPathsProvider.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_HandlebarsDotNet_Mvc_DefaultPathsProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultPathsProvider.AllowControllerlessViewFolder property" Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_AllowControllerlessViewFolder.htm" />
+  <HelpKINode Title="DefaultPathsProvider.AreasFolderName property" Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_AreasFolderName.htm" />
+  <HelpKINode Title="DefaultPathsProvider.DefaultPathsProvider constructor" Url="html/M_HandlebarsDotNet_Mvc_DefaultPathsProvider__ctor.htm" />
+  <HelpKINode Title="DefaultPathsProvider.GetLayoutFolders method" Url="html/M_HandlebarsDotNet_Mvc_DefaultPathsProvider_GetLayoutFolders.htm" />
+  <HelpKINode Title="DefaultPathsProvider.GetPartialsFolders method" Url="html/M_HandlebarsDotNet_Mvc_DefaultPathsProvider_GetPartialsFolders.htm" />
+  <HelpKINode Title="DefaultPathsProvider.GetViewFolders method" Url="html/M_HandlebarsDotNet_Mvc_DefaultPathsProvider_GetViewFolders.htm" />
+  <HelpKINode Title="DefaultPathsProvider.LayoutsFolderName property" Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_LayoutsFolderName.htm" />
+  <HelpKINode Title="DefaultPathsProvider.PartialsFolderName property" Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_PartialsFolderName.htm" />
+  <HelpKINode Title="DefaultPathsProvider.SharedViewsFolderName property" Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_SharedViewsFolderName.htm" />
+  <HelpKINode Title="DefaultPathsProvider.ViewsFolderName property" Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_ViewsFolderName.htm" />
+  <HelpKINode Title="DefineSection method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_DefineSection.htm" />
+  <HelpKINode Title="ExtractActionName method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ExtractActionName.htm" />
+  <HelpKINode Title="ExtractAreaName method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ExtractAreaName.htm" />
+  <HelpKINode Title="ExtractControllerName method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ExtractControllerName.htm" />
+  <HelpKINode Title="FileExists method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_FileExists.htm" />
+  <HelpKINode Title="FileHash property" Url="html/P_HandlebarsDotNet_Mvc_CompiledView_FileHash.htm" />
+  <HelpKINode Title="FindPartialView method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_FindPartialView.htm" />
+  <HelpKINode Title="FindView method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_FindView.htm" />
+  <HelpKINode Title="Func property" Url="html/P_HandlebarsDotNet_Mvc_CompiledView_Func.htm" />
+  <HelpKINode Title="GetCacheKey method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_GetCacheKey.htm" />
+  <HelpKINode Title="GetLayoutFolders method">
+    <HelpKINode Title="DefaultPathsProvider.GetLayoutFolders Method " Url="html/M_HandlebarsDotNet_Mvc_DefaultPathsProvider_GetLayoutFolders.htm" />
+    <HelpKINode Title="IPathsProvider.GetLayoutFolders Method " Url="html/M_HandlebarsDotNet_Mvc_IPathsProvider_GetLayoutFolders.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetPartialsFolders method">
+    <HelpKINode Title="DefaultPathsProvider.GetPartialsFolders Method " Url="html/M_HandlebarsDotNet_Mvc_DefaultPathsProvider_GetPartialsFolders.htm" />
+    <HelpKINode Title="IPathsProvider.GetPartialsFolders Method " Url="html/M_HandlebarsDotNet_Mvc_IPathsProvider_GetPartialsFolders.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetViewContext method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsView_GetViewContext.htm" />
+  <HelpKINode Title="GetViewFolders method">
+    <HelpKINode Title="DefaultPathsProvider.GetViewFolders Method " Url="html/M_HandlebarsDotNet_Mvc_DefaultPathsProvider_GetViewFolders.htm" />
+    <HelpKINode Title="IPathsProvider.GetViewFolders Method " Url="html/M_HandlebarsDotNet_Mvc_IPathsProvider_GetViewFolders.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HandlebarsConfiguration property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_HandlebarsConfiguration.htm" />
+  <HelpKINode Title="HandlebarsDotNet.Mvc namespace" Url="html/N_HandlebarsDotNet_Mvc.htm" />
+  <HelpKINode Title="HandlebarsDotNet.Mvc.CompiledView class" Url="html/T_HandlebarsDotNet_Mvc_CompiledView.htm" />
+  <HelpKINode Title="HandlebarsDotNet.Mvc.DefaultPathsProvider class" Url="html/T_HandlebarsDotNet_Mvc_DefaultPathsProvider.htm" />
+  <HelpKINode Title="HandlebarsDotNet.Mvc.HandlebarsView class" Url="html/T_HandlebarsDotNet_Mvc_HandlebarsView.htm" />
+  <HelpKINode Title="HandlebarsDotNet.Mvc.HandlebarsViewEngine class" Url="html/T_HandlebarsDotNet_Mvc_HandlebarsViewEngine.htm" />
+  <HelpKINode Title="HandlebarsDotNet.Mvc.HelperException class" Url="html/T_HandlebarsDotNet_Mvc_HelperException.htm" />
+  <HelpKINode Title="HandlebarsDotNet.Mvc.Helpers class" Url="html/T_HandlebarsDotNet_Mvc_Helpers.htm" />
+  <HelpKINode Title="HandlebarsDotNet.Mvc.ILogger interface" Url="html/T_HandlebarsDotNet_Mvc_ILogger.htm" />
+  <HelpKINode Title="HandlebarsDotNet.Mvc.IPathsProvider interface" Url="html/T_HandlebarsDotNet_Mvc_IPathsProvider.htm" />
+  <HelpKINode Title="HandlebarsDotNet.Mvc.LoggerCategory enumeration" Url="html/T_HandlebarsDotNet_Mvc_LoggerCategory.htm" />
+  <HelpKINode Title="HandlebarsDotNet.Mvc.NullLogger class" Url="html/T_HandlebarsDotNet_Mvc_NullLogger.htm" />
+  <HelpKINode Title="HandlebarsView class">
+    <HelpKINode Title="HandlebarsView Class" Url="html/T_HandlebarsDotNet_Mvc_HandlebarsView.htm" />
+    <HelpKINode Title="about HandlebarsView class" Url="html/T_HandlebarsDotNet_Mvc_HandlebarsView.htm" />
+    <HelpKINode Title="constructor" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsView__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_HandlebarsView.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_HandlebarsDotNet_Mvc_HandlebarsView.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HandlebarsView.GetViewContext method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsView_GetViewContext.htm" />
+  <HelpKINode Title="HandlebarsView.HandlebarsView constructor" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsView__ctor.htm" />
+  <HelpKINode Title="HandlebarsView.Render method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsView_Render.htm" />
+  <HelpKINode Title="HandlebarsView.SetupContext method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsView_SetupContext.htm" />
+  <HelpKINode Title="HandlebarsView.ViewData property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsView_ViewData.htm" />
+  <HelpKINode Title="HandlebarsViewEngine class">
+    <HelpKINode Title="HandlebarsViewEngine Class" Url="html/T_HandlebarsDotNet_Mvc_HandlebarsViewEngine.htm" />
+    <HelpKINode Title="about HandlebarsViewEngine class" Url="html/T_HandlebarsDotNet_Mvc_HandlebarsViewEngine.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_HandlebarsDotNet_Mvc_HandlebarsViewEngine__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_HandlebarsViewEngine.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_HandlebarsDotNet_Mvc_HandlebarsViewEngine.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HandlebarsViewEngine.CacheKeyPrefix property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_CacheKeyPrefix.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.ClearCache method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ClearCache.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.CreateView method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_CreateView.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.ExtractActionName method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ExtractActionName.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.ExtractAreaName method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ExtractAreaName.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.ExtractControllerName method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ExtractControllerName.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.FileExists method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_FileExists.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.FindPartialView method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_FindPartialView.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.FindView method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_FindView.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.GetCacheKey method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_GetCacheKey.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.HandlebarsConfiguration property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_HandlebarsConfiguration.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.HandlebarsViewEngine constructor" Url="html/Overload_HandlebarsDotNet_Mvc_HandlebarsViewEngine__ctor.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.Logger property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_Logger.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.PathsProvider property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_PathsProvider.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.RegisterHelper method" Url="html/Overload_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterHelper.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.RegisterMvcHelpers method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterMvcHelpers.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.RegisterSectionsHelpers method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterSectionsHelpers.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.RegisterTemplate method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterTemplate.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.ReleaseView method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ReleaseView.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.ViewExtension property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ViewExtension.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.ViewsSlidingCacheTime property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ViewsSlidingCacheTime.htm" />
+  <HelpKINode Title="HandlebarsViewEngine.VirtualPathProvider property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_VirtualPathProvider.htm" />
+  <HelpKINode Title="HelperException class">
+    <HelpKINode Title="HelperException Class" Url="html/T_HandlebarsDotNet_Mvc_HelperException.htm" />
+    <HelpKINode Title="about HelperException class" Url="html/T_HandlebarsDotNet_Mvc_HelperException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_HandlebarsDotNet_Mvc_HelperException__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HelperException.HelperException constructor" Url="html/Overload_HandlebarsDotNet_Mvc_HelperException__ctor.htm" />
+  <HelpKINode Title="Helpers class">
+    <HelpKINode Title="Helpers Class" Url="html/T_HandlebarsDotNet_Mvc_Helpers.htm" />
+    <HelpKINode Title="about Helpers class" Url="html/T_HandlebarsDotNet_Mvc_Helpers.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_Helpers.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Helpers.DefineSection method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_DefineSection.htm" />
+  <HelpKINode Title="Helpers.HtmlAntiForgeryToken method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_HtmlAntiForgeryToken.htm" />
+  <HelpKINode Title="Helpers.HtmlRenderAction method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_HtmlRenderAction.htm" />
+  <HelpKINode Title="Helpers.IsSectionDefined method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_IsSectionDefined.htm" />
+  <HelpKINode Title="Helpers.RenderSection method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_RenderSection.htm" />
+  <HelpKINode Title="Helpers.ScriptsRender method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_ScriptsRender.htm" />
+  <HelpKINode Title="Helpers.StylesRender method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_StylesRender.htm" />
+  <HelpKINode Title="Helpers.UrlAction method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_UrlAction.htm" />
+  <HelpKINode Title="Helpers.UrlContent method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_UrlContent.htm" />
+  <HelpKINode Title="Helpers.UrlEncode method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_UrlEncode.htm" />
+  <HelpKINode Title="HtmlAntiForgeryToken method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_HtmlAntiForgeryToken.htm" />
+  <HelpKINode Title="HtmlRenderAction method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_HtmlRenderAction.htm" />
+  <HelpKINode Title="ILogger interface">
+    <HelpKINode Title="ILogger Interface" Url="html/T_HandlebarsDotNet_Mvc_ILogger.htm" />
+    <HelpKINode Title="about ILogger interface" Url="html/T_HandlebarsDotNet_Mvc_ILogger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_ILogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogger.Log method" Url="html/M_HandlebarsDotNet_Mvc_ILogger_Log.htm" />
+  <HelpKINode Title="ILogger.Trace method" Url="html/M_HandlebarsDotNet_Mvc_ILogger_Trace.htm" />
+  <HelpKINode Title="ILogger.Warn method" Url="html/M_HandlebarsDotNet_Mvc_ILogger_Warn.htm" />
+  <HelpKINode Title="Instance property" Url="html/P_HandlebarsDotNet_Mvc_NullLogger_Instance.htm" />
+  <HelpKINode Title="IPathsProvider interface">
+    <HelpKINode Title="IPathsProvider Interface" Url="html/T_HandlebarsDotNet_Mvc_IPathsProvider.htm" />
+    <HelpKINode Title="about IPathsProvider interface" Url="html/T_HandlebarsDotNet_Mvc_IPathsProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_IPathsProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPathsProvider.GetLayoutFolders method" Url="html/M_HandlebarsDotNet_Mvc_IPathsProvider_GetLayoutFolders.htm" />
+  <HelpKINode Title="IPathsProvider.GetPartialsFolders method" Url="html/M_HandlebarsDotNet_Mvc_IPathsProvider_GetPartialsFolders.htm" />
+  <HelpKINode Title="IPathsProvider.GetViewFolders method" Url="html/M_HandlebarsDotNet_Mvc_IPathsProvider_GetViewFolders.htm" />
+  <HelpKINode Title="IsSectionDefined method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_IsSectionDefined.htm" />
+  <HelpKINode Title="Layout property" Url="html/P_HandlebarsDotNet_Mvc_CompiledView_Layout.htm" />
+  <HelpKINode Title="LayoutsFolderName property" Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_LayoutsFolderName.htm" />
+  <HelpKINode Title="Log method">
+    <HelpKINode Title="ILogger.Log Method " Url="html/M_HandlebarsDotNet_Mvc_ILogger_Log.htm" />
+    <HelpKINode Title="NullLogger.Log Method " Url="html/M_HandlebarsDotNet_Mvc_NullLogger_Log.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Logger property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_Logger.htm" />
+  <HelpKINode Title="LoggerCategory enumeration" Url="html/T_HandlebarsDotNet_Mvc_LoggerCategory.htm" />
+  <HelpKINode Title="NullLogger class">
+    <HelpKINode Title="NullLogger Class" Url="html/T_HandlebarsDotNet_Mvc_NullLogger.htm" />
+    <HelpKINode Title="about NullLogger class" Url="html/T_HandlebarsDotNet_Mvc_NullLogger.htm" />
+    <HelpKINode Title="constructor" Url="html/M_HandlebarsDotNet_Mvc_NullLogger__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_HandlebarsDotNet_Mvc_NullLogger.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_HandlebarsDotNet_Mvc_NullLogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NullLogger.Instance property" Url="html/P_HandlebarsDotNet_Mvc_NullLogger_Instance.htm" />
+  <HelpKINode Title="NullLogger.Log method" Url="html/M_HandlebarsDotNet_Mvc_NullLogger_Log.htm" />
+  <HelpKINode Title="NullLogger.NullLogger constructor" Url="html/M_HandlebarsDotNet_Mvc_NullLogger__ctor.htm" />
+  <HelpKINode Title="NullLogger.Trace method" Url="html/M_HandlebarsDotNet_Mvc_NullLogger_Trace.htm" />
+  <HelpKINode Title="NullLogger.Warn method" Url="html/M_HandlebarsDotNet_Mvc_NullLogger_Warn.htm" />
+  <HelpKINode Title="PartialsFolderName property" Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_PartialsFolderName.htm" />
+  <HelpKINode Title="PathsProvider property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_PathsProvider.htm" />
+  <HelpKINode Title="RegisterHelper method" Url="html/Overload_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterHelper.htm" />
+  <HelpKINode Title="RegisterMvcHelpers method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterMvcHelpers.htm" />
+  <HelpKINode Title="RegisterSectionsHelpers method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterSectionsHelpers.htm" />
+  <HelpKINode Title="RegisterTemplate method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_RegisterTemplate.htm" />
+  <HelpKINode Title="ReleaseView method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ReleaseView.htm" />
+  <HelpKINode Title="Render method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsView_Render.htm" />
+  <HelpKINode Title="RenderSection method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_RenderSection.htm" />
+  <HelpKINode Title="ScriptsRender method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_ScriptsRender.htm" />
+  <HelpKINode Title="SetupContext method" Url="html/M_HandlebarsDotNet_Mvc_HandlebarsView_SetupContext.htm" />
+  <HelpKINode Title="SharedViewsFolderName property" Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_SharedViewsFolderName.htm" />
+  <HelpKINode Title="StylesRender method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_StylesRender.htm" />
+  <HelpKINode Title="Trace method">
+    <HelpKINode Title="ILogger.Trace Method " Url="html/M_HandlebarsDotNet_Mvc_ILogger_Trace.htm" />
+    <HelpKINode Title="NullLogger.Trace Method " Url="html/M_HandlebarsDotNet_Mvc_NullLogger_Trace.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UrlAction method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_UrlAction.htm" />
+  <HelpKINode Title="UrlContent method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_UrlContent.htm" />
+  <HelpKINode Title="UrlEncode method" Url="html/M_HandlebarsDotNet_Mvc_Helpers_UrlEncode.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0" Url="html/5aa5c589-dd14-4c29-840e-d76fb6aeb754.htm" />
+    <HelpKINode Title="history" Url="html/1404f89d-737c-4362-97f8-f28d6eca6835.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ViewData property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsView_ViewData.htm" />
+  <HelpKINode Title="ViewExtension property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ViewExtension.htm" />
+  <HelpKINode Title="ViewsFolderName property" Url="html/P_HandlebarsDotNet_Mvc_DefaultPathsProvider_ViewsFolderName.htm" />
+  <HelpKINode Title="ViewsSlidingCacheTime property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_ViewsSlidingCacheTime.htm" />
+  <HelpKINode Title="VirtualPathProvider property" Url="html/P_HandlebarsDotNet_Mvc_HandlebarsViewEngine_VirtualPathProvider.htm" />
+  <HelpKINode Title="Warn method">
+    <HelpKINode Title="ILogger.Warn Method " Url="html/M_HandlebarsDotNet_Mvc_ILogger_Warn.htm" />
+    <HelpKINode Title="NullLogger.Warn Method " Url="html/M_HandlebarsDotNet_Mvc_NullLogger_Warn.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/c0481a93-2a09-4d93-8418-410ef2bf77c4.htm" />
+</HelpKI>
