@@ -140,7 +140,6 @@ namespace HandlebarsDotNet.Mvc
 		/// {
 		/// 	object val    = args[0];
 		/// 	string format = args[1] as string;
-		/// 	format = format.Replace('[', '{').Replace(']', '}');
 		/// 	ViewContext viewContext = HandlebarsView.GetViewContext(context);
 		/// 	HtmlHelper htmlHelper = new HtmlHelper(viewContext, viewContext.View as HandlebarsView);
 		/// 	string formatted = htmlHelper.FormatValue(val, format);
@@ -157,7 +156,7 @@ namespace HandlebarsDotNet.Mvc
 		/// }
 		/// </code>
 		/// <code title="index.hbs">
-		/// {{formatvalue pi "Pi is about [0:d]"}}
+		/// {{formatvalue pi "Pi is about {0:N}"}}
 		/// </code>
 		/// <code title="Renders">
 		/// Pi is about 3.14

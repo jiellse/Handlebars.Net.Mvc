@@ -33,6 +33,59 @@ namespace HandlebarsDotNet.Mvc.Tests
 			});
 		}
 
+#if false
+		// This threw an exception in Handlebars.Net 1.8.0
+		// It doesn't anymore in v1.9.0
+		[Fact]
+		public void Handlebars_1_8_throws_when_compiling_mustache_as_part_of_string()
+		{
+			var ex = Assert.Throws<HandlebarsCompilerException>(() =>
+			{
+				var func = Handlebars.Compile("{{formatvalue pi '{0:d}'}}");
+			});
+			Assert.Equal("Starting and ending handlebars do not match", ex.Message);
+		}
+#endif
+		[Fact]
+		public void Handlebars_1_9_doesnt_throw_when_compiling_mustache_as_part_of_string()
+		{
+			var vpp = new VPP(
+				new VPP.Dir("Views",
+					new VPP.Dir("Home",
+						new VPP.File("index.hbs", "Pi is about {{formatvalue pi '{0:N}'}}")
+						)
+					)
+				);
+			var hbsve = new HandlebarsViewEngine();
+			hbsve.VirtualPathProvider = vpp;
+
+			hbsve.RegisterHelper("formatvalue", (writer, context, args) =>
+			{
+				object val    = args[0];
+				string format = args[1] as string;
+				ViewContext viewContext = HandlebarsView.GetViewContext(context);
+				HtmlHelper htmlHelper = new HtmlHelper(viewContext, viewContext.View as HandlebarsView);
+				string formatted = htmlHelper.FormatValue(val, format);
+				writer.Write(formatted);
+			});
+
+			var httpContext = new Mock<HttpContextBase>();
+			var controller = new Mock<ControllerBase>();
+			var routeData = new RouteData();
+			routeData.Values.Add("controller", "Home");
+			var controllerContext = new ControllerContext(httpContext.Object, routeData, controller.Object);
+
+			var viewengineResult = hbsve.FindView(controllerContext, viewName: "index", masterName: null, useCache: false);
+			var hbsview = viewengineResult.View;
+
+			string actual = GetHtmlFromView(hbsview, new
+			{
+				pi = 3.14159265358979
+			});
+
+			Assert.Equal("Pi is about 3.14", actual);
+		}
+
 		public class RegisterHelper
 		{
 			class TestViewEngine : HandlebarsViewEngine
