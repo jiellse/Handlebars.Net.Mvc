@@ -38,14 +38,14 @@ using System.Security;
 // http://stackoverflow.com/questions/11965924/nuspec-version-attribute-vs-assembly-version
 // http://stackoverflow.com/questions/64602/what-are-differences-between-assemblyversion-assemblyfileversion-and-assemblyin
 
-[assembly: AssemblyVersion("0.1")]
+[assembly: AssemblyVersion("1.0")]
 // The public API version. If the public surface area changes, change this.
 // This is the version other code binds to. (If this changes old code needs a binding redirect, but that may break the old code.)
 
-[assembly: AssemblyFileVersion("0.1")]
+[assembly: AssemblyFileVersion("1.0")]
 // The specific assembly build.
 
-[assembly: AssemblyInformationalVersion("0.1.0-alpha")]
+[assembly: AssemblyInformationalVersion("1.0.0-beta")]
 // The human-readable variant of the file version. The version is a string that doesn't need to be parseable by System.Version.
 
 
