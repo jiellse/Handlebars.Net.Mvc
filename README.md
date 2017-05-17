@@ -5,6 +5,9 @@ An ASP.NET MVC ViewEngine using the Handlebars syntax.
 This project uses https://github.com/rexm/Handlebars.Net to compile the view files on the server to .NET bytecode.
 The syntax for the view files is described at http://handlebarsjs.com/ (but note that is client-side Javascript so some parts differ).
 
+## Documentation
+The API documentation exists at https://jiellse.github.io/Handlebars.Net.Mvc/
+
 ## Bootstrapping
 In Application_Start in Global.asax.cs add the following lines:
 
